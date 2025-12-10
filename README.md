@@ -2,7 +2,6 @@
 - 👀 I’m interested in Design
 - 🌱 I’m currently learning Figma
 - 📫 Contact me for comission
-- ⚡ Fun fact: Partial blind
 
 <!---
 kuriosann/kuriosann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
